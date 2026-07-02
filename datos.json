@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": 1,
+    "fecha": "2026-07-01",
+    "concepto": "RAFA LE LLEVO DINERO A ARQUI PARA ARRANCAR LA OBRA",
+    "monto": 22232,
+    "cat": "Materiales"
+  }
+]
