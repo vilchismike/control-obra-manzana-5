@@ -3,77 +3,77 @@
     "id": 1,
     "fecha": "2026-04-09",
     "concepto": "RAFA LE LLEVO DINERO A ARQUI PARA ARRANCAR LA OBRA",
-    "monto": 20000.0,
+    "monto": 20000,
     "cat": "Materiales"
   },
   {
     "id": 2,
     "fecha": "2026-04-15",
     "concepto": "ARQUI PIDIO DINERO LE HICE RETIRO SIN TARJETA",
-    "monto": 9000.0,
+    "monto": 9000,
     "cat": "Mano de obra"
   },
   {
     "id": 3,
     "fecha": "2026-04-16",
     "concepto": "ARQUI PIDIO DINERO LE HICE RETIRO SIN TARJETA",
-    "monto": 9000.0,
+    "monto": 9000,
     "cat": "Mano de obra"
   },
   {
     "id": 4,
     "fecha": "2026-04-18",
     "concepto": "ARQUI PIDIO DINERO PARA VILLAS PARAISO",
-    "monto": 25000.0,
+    "monto": 25000,
     "cat": "Mano de obra"
   },
   {
     "id": 5,
     "fecha": "2026-04-21",
     "concepto": "RAFA LE LLEVO DINERO AL ARQUITECTO EN ALTA VISTA",
-    "monto": 22000.0,
+    "monto": 22000,
     "cat": "Mano de obra"
   },
   {
     "id": 6,
     "fecha": "2026-04-25",
     "concepto": "MIKI LE LLEVO DINERO AL ARQUI EN BOLA DE ORO",
-    "monto": 25000.0,
+    "monto": 25000,
     "cat": "Mano de obra"
   },
   {
     "id": 7,
     "fecha": "2026-04-30",
     "concepto": "ARQUI VINO A MI CASA POR DINERO EN EFECTIVO",
-    "monto": 10000.0,
+    "monto": 10000,
     "cat": "Mano de obra"
   },
   {
     "id": 8,
     "fecha": "2026-05-02",
     "concepto": "RAFA LE LLEVA DINERO A EL ARQUITECTO",
-    "monto": 25000.0,
+    "monto": 25000,
     "cat": "Mano de obra"
   },
   {
     "id": 9,
     "fecha": "2026-05-04",
     "concepto": "RAFA LE LLEVA DINERO A EL ARQUITECTO",
-    "monto": 10000.0,
+    "monto": 10000,
     "cat": "Mano de obra"
   },
   {
     "id": 10,
     "fecha": "2026-05-06",
     "concepto": "ARQUI FUE A CASA DE MIKI POR DINERO PERSONALMENTE",
-    "monto": 35000.0,
+    "monto": 35000,
     "cat": "Mano de obra"
   },
   {
     "id": 11,
     "fecha": "2026-05-06",
     "concepto": "PAGO PARA MADERA VILLAS PARAISO",
-    "monto": 6100.0,
+    "monto": 6100,
     "cat": "Materiales"
   },
   {
@@ -87,119 +87,119 @@
     "id": 13,
     "fecha": "2026-05-13",
     "concepto": "RAFA LE DIO DINERO AL ARQUITECTO EN BANAMEX SHANGRILLA",
-    "monto": 20000.0,
+    "monto": 20000,
     "cat": "Mano de obra"
   },
   {
     "id": 14,
     "fecha": "2026-05-15",
     "concepto": "ARQUITECTO PIDIO QUE LE DEPOSITARAMOS",
-    "monto": 5000.0,
+    "monto": 5000,
     "cat": "Mano de obra"
   },
   {
     "id": 15,
     "fecha": "2026-05-15",
     "concepto": "ARQUITECTO PIDIO QUE PAGARAMOS ARENA MAX",
-    "monto": 2350.0,
+    "monto": 2350,
     "cat": "Materiales"
   },
   {
     "id": 16,
     "fecha": "2026-05-16",
     "concepto": "ARQUITECTO PIDIO DINERO PARA VILLAS PARAISO",
-    "monto": 36000.0,
+    "monto": 36000,
     "cat": "Mano de obra"
   },
   {
     "id": 17,
     "fecha": "2026-05-22",
-    "concepto": "SE LE DEPOSITO AL SEÑOR DE LA MADERA PARA SIMBRA",
-    "monto": 4050.0,
+    "concepto": "SE LE DEPOSITO AL SEÃOR DE LA MADERA PARA SIMBRA",
+    "monto": 4050,
     "cat": "Materiales"
   },
   {
     "id": 18,
     "fecha": "2026-05-22",
     "concepto": "RAFA LE DA DINERO AL ARQUI PARA NOMINA",
-    "monto": 40000.0,
+    "monto": 40000,
     "cat": "Mano de obra"
   },
   {
     "id": 19,
     "fecha": "2026-05-25",
     "concepto": "ARQUI VINO A MI CASA POR DINERO EN EFECTIVO",
-    "monto": 20000.0,
+    "monto": 20000,
     "cat": "Mano de obra"
   },
   {
     "id": 20,
     "fecha": "2026-05-28",
     "concepto": "MIGUEL LE HACE RETIRO SIN TARJETA AL ARQUITECTO",
-    "monto": 8000.0,
+    "monto": 8000,
     "cat": "Mano de obra"
   },
   {
     "id": 21,
     "fecha": "2026-05-29",
     "concepto": "ARQUI VINO PERSONALMENTE A MI CASA POR MONEDA",
-    "monto": 35000.0,
+    "monto": 35000,
     "cat": "Mano de obra"
   },
   {
     "id": 22,
     "fecha": "2026-06-01",
     "concepto": "DEPOSITO PARA PAGARLE ARENA MAX",
-    "monto": 2350.0,
+    "monto": 2350,
     "cat": "Materiales"
   },
   {
     "id": 23,
     "fecha": "2026-06-03",
     "concepto": "RAFA LE LLEVA AL ARQUITECTO A VILLAS PARAISO LO RECIBO PASCUAL",
-    "monto": 10000.0,
+    "monto": 10000,
     "cat": "Mano de obra"
   },
   {
     "id": 24,
     "fecha": "2026-06-06",
     "concepto": "RAFA LE FUE A DEJAR DINERO AL ARQUI EN SAN NICOLAS",
-    "monto": 35000.0,
+    "monto": 35000,
     "cat": "Mano de obra"
   },
   {
     "id": 25,
     "fecha": "2026-06-11",
     "concepto": "RAFA LE LLEVA DINERO AL PASTAS - ARQUITECTO",
-    "monto": 10000.0,
+    "monto": 10000,
     "cat": "Mano de obra"
   },
   {
     "id": 26,
     "fecha": "2026-06-12",
     "concepto": "VIAJE DE ARENA QUE PIDIO ARQUITECTO",
-    "monto": 2350.0,
+    "monto": 2350,
     "cat": "Materiales"
   },
   {
     "id": 27,
     "fecha": "2026-06-13",
     "concepto": "NOMINA QUE PIDIO ARQUITECTO",
-    "monto": 60000.0,
+    "monto": 60000,
     "cat": "Mano de obra"
   },
   {
     "id": 28,
     "fecha": "2026-06-13",
     "concepto": "MONOMANDOS COMPRADOS EN AMAZON",
-    "monto": 1580.0,
+    "monto": 1580,
     "cat": "Materiales"
   },
   {
     "id": 29,
     "fecha": "2026-06-17",
     "concepto": "Rafa le lleva dinero a Alex Contratista",
-    "monto": 14000.0,
+    "monto": 14000,
     "cat": "Mano de obra"
   },
   {
@@ -213,14 +213,14 @@
     "id": 31,
     "fecha": "2026-06-19",
     "concepto": "NOMINA RAFA SE LA LLEVO A VILLAS PARAISO Y SE LO DEJO A PASCUAL",
-    "monto": 35000.0,
+    "monto": 35000,
     "cat": "Mano de obra"
   },
   {
     "id": 32,
     "fecha": "2026-06-27",
     "concepto": "RAFA LE LLEVO DINERO A LA OBRA EN VILLAS PARAISO",
-    "monto": 15000.0,
+    "monto": 15000,
     "cat": "Mano de obra"
   },
   {
@@ -234,7 +234,14 @@
     "id": 34,
     "fecha": "2026-06-29",
     "concepto": "RAFA LE LLEVO DINERO AL ARQUI",
-    "monto": 60000.0,
+    "monto": 60000,
+    "cat": "Mano de obra"
+  },
+  {
+    "id": 35,
+    "fecha": "2026-07-04",
+    "concepto": "RAFA LE LLEVA DINERO AL ARQUI EN VILLAS PARAISO",
+    "monto": 25000,
     "cat": "Mano de obra"
   }
 ]
