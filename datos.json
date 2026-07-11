@@ -250,5 +250,12 @@
     "concepto": "VINO ARQUI ALEX A CASA DE MIKI EN VILLA NORTE POR DINERO",
     "monto": 25000,
     "cat": "Materiales"
+  },
+  {
+    "id": 37,
+    "fecha": "2026-07-11",
+    "concepto": "RAFA LE LLEVA DINERO AL ARQUI A VILLAS PARAISO",
+    "monto": 20000,
+    "cat": "Mano de obra"
   }
 ]
