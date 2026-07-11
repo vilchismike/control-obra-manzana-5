@@ -114,7 +114,7 @@
   {
     "id": 17,
     "fecha": "2026-05-22",
-    "concepto": "SE LE DEPOSITO AL SEÃOR DE LA MADERA PARA SIMBRA",
+    "concepto": "SE LE DEPOSITO AL SEÃÂOR DE LA MADERA PARA SIMBRA",
     "monto": 4050,
     "cat": "Materiales"
   },
@@ -243,5 +243,12 @@
     "concepto": "RAFA LE LLEVA DINERO AL ARQUI EN VILLAS PARAISO",
     "monto": 25000,
     "cat": "Mano de obra"
+  },
+  {
+    "id": 36,
+    "fecha": "2026-07-08",
+    "concepto": "VINO ARQUI ALEX A CASA DE MIKI EN VILLA NORTE POR DINERO",
+    "monto": 25000,
+    "cat": "Materiales"
   }
 ]
