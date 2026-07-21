@@ -114,7 +114,7 @@
   {
     "id": 17,
     "fecha": "2026-05-22",
-    "concepto": "SE LE DEPOSITO AL SEÃÂOR DE LA MADERA PARA SIMBRA",
+    "concepto": "SE LE DEPOSITO AL SEÃÂÃÂOR DE LA MADERA PARA SIMBRA",
     "monto": 4050,
     "cat": "Materiales"
   },
@@ -256,6 +256,13 @@
     "fecha": "2026-07-11",
     "concepto": "RAFA LE LLEVA DINERO AL ARQUI A VILLAS PARAISO",
     "monto": 20000,
+    "cat": "Mano de obra"
+  },
+  {
+    "id": 38,
+    "fecha": "2026-07-18",
+    "concepto": "SE LE LLEVA DINERO AL ARQUI A VILLAS PARAISO",
+    "monto": 50000,
     "cat": "Mano de obra"
   }
 ]
