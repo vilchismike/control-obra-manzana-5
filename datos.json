@@ -114,7 +114,7 @@
   {
     "id": 17,
     "fecha": "2026-05-22",
-    "concepto": "SE LE DEPOSITO AL SEÃÂÃÂÃÂÃÂOR DE LA MADERA PARA SIMBRA",
+    "concepto": "SE LE DEPOSITO AL SEÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂOR DE LA MADERA PARA SIMBRA",
     "monto": 4050,
     "cat": "Materiales"
   },
@@ -276,6 +276,13 @@
     "id": 40,
     "fecha": "2026-07-26",
     "concepto": "RAFA LE LLEVA DINERO AL ARQUITECTO A VILLAS PARAISO",
+    "monto": 15000,
+    "cat": "Mano de obra"
+  },
+  {
+    "id": 41,
+    "fecha": "2026-08-01",
+    "concepto": "NOMINA PARA ARQUITECTO ALEX",
     "monto": 15000,
     "cat": "Mano de obra"
   }
