@@ -130,7 +130,7 @@
   {
     "id": 17,
     "fecha": "2026-05-22",
-    "concepto": "SE LE DEPOSITO AL SEÃOR DE LA MADERA PARA SIMBRA",
+    "concepto": "SE LE DEPOSITO AL SEÃÂOR DE LA MADERA PARA SIMBRA",
     "monto": 4050,
     "cat": "Materiales",
     "editing": false
@@ -337,9 +337,10 @@
   },
   {
     "id": 43,
-    "fecha": "2026-08-08",
-    "concepto": "Le doy al Arqui en San Nicolas para villas paraiso",
-    "monto": 20000,
-    "cat": "Mano de obra"
+    "fecha": "2026-08-07",
+    "concepto": "Pago anticipo Carpintero puertas Villas Paraiso",
+    "monto": 18000,
+    "cat": "Materiales",
+    "editing": false
   }
 ]
