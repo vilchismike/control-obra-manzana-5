@@ -363,5 +363,12 @@
     "concepto": "ARQUI PIDIO DEPOSITO PARA VILLAS PARAISO",
     "monto": 4000,
     "cat": "Materiales"
+  },
+  {
+    "id": 47,
+    "fecha": "2026-08-15",
+    "concepto": "Le doy al Arqui en San Nicolas para villas paraiso",
+    "monto": 25000,
+    "cat": "Mano de obra"
   }
 ]
