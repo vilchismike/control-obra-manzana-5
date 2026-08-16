@@ -130,7 +130,7 @@
   {
     "id": 17,
     "fecha": "2026-05-22",
-    "concepto": "SE LE DEPOSITO AL SEÃÂOR DE LA MADERA PARA SIMBRA",
+    "concepto": "SE LE DEPOSITO AL SEÃÂÃÂOR DE LA MADERA PARA SIMBRA",
     "monto": 4050,
     "cat": "Materiales",
     "editing": false
@@ -349,5 +349,12 @@
     "concepto": "Le doy al Arqui en San Nicolas para villas paraiso",
     "monto": 20000,
     "cat": "Mano de obra"
+  },
+  {
+    "id": 45,
+    "fecha": "2026-08-10",
+    "concepto": "COMPRA AMAZON PARA LAMPARAS, TARJA, REGADERAS, ETC",
+    "monto": 5392.12,
+    "cat": "Materiales"
   }
 ]
