@@ -356,5 +356,12 @@
     "concepto": "COMPRA AMAZON PARA LAMPARAS, TARJA, REGADERAS, ETC",
     "monto": 5392.12,
     "cat": "Materiales"
+  },
+  {
+    "id": 46,
+    "fecha": "2026-08-13",
+    "concepto": "ARQUI PIDIO DEPOSITO PARA VILLAS PARAISO",
+    "monto": 4000,
+    "cat": "Materiales"
   }
 ]
