@@ -130,7 +130,7 @@
   {
     "id": 17,
     "fecha": "2026-05-22",
-    "concepto": "SE LE DEPOSITO AL SEÃÂÃÂOR DE LA MADERA PARA SIMBRA",
+    "concepto": "SE LE DEPOSITO AL SEÃÂÃÂÃÂÃÂOR DE LA MADERA PARA SIMBRA",
     "monto": 4050,
     "cat": "Materiales",
     "editing": false
@@ -366,6 +366,13 @@
   },
   {
     "id": 47,
+    "fecha": "2026-08-15",
+    "concepto": "Le doy al Arqui en San Nicolas para villas paraiso",
+    "monto": 25000,
+    "cat": "Mano de obra"
+  },
+  {
+    "id": 48,
     "fecha": "2026-08-15",
     "concepto": "Le doy al Arqui en San Nicolas para villas paraiso",
     "monto": 25000,
