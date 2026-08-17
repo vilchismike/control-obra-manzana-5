@@ -348,34 +348,39 @@
     "fecha": "2026-08-08",
     "concepto": "Le doy al Arqui en San Nicolas para villas paraiso",
     "monto": 20000,
-    "cat": "Mano de obra"
+    "cat": "Mano de obra",
+    "editing": false
   },
   {
     "id": 45,
     "fecha": "2026-08-10",
     "concepto": "COMPRA AMAZON PARA LAMPARAS, TARJA, REGADERAS, ETC",
     "monto": 5392.12,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 46,
     "fecha": "2026-08-13",
     "concepto": "ARQUI PIDIO DEPOSITO PARA VILLAS PARAISO",
     "monto": 4000,
-    "cat": "Materiales"
+    "cat": "Materiales",
+    "editing": false
   },
   {
     "id": 47,
-    "fecha": "2026-08-15",
-    "concepto": "Le doy al Arqui en San Nicolas para villas paraiso",
-    "monto": 25000,
-    "cat": "Mano de obra"
+    "fecha": "2026-08-14",
+    "concepto": "Accesorios de baño para villas paraiso manzana 1",
+    "monto": 1137,
+    "cat": "Mano de obra",
+    "editing": false
   },
   {
     "id": 48,
     "fecha": "2026-08-15",
     "concepto": "Le doy al Arqui en San Nicolas para villas paraiso",
     "monto": 25000,
-    "cat": "Mano de obra"
+    "cat": "Mano de obra",
+    "editing": false
   }
 ]
